@@ -1,2 +1,3 @@
 # web-content
-Content of nurieta.com for now, more things might come
+
+To test easiest is to serve locally: python -m SimpleHTTPServer 5000
